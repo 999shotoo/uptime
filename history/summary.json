@@ -4,18 +4,20 @@
     "url": "https://animehub.giize.com/",
     "icon": "https://icons.duckduckgo.com/ip3/animehub.giize.com.ico",
     "slug": "anihub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 260,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
-    "dailyMinutesDown": {}
+    "time": 1174,
+    "timeDay": 2069,
+    "timeWeek": 1174,
+    "timeMonth": 1174,
+    "timeYear": 1174,
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Shoto Portfolio",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 233,
+    "timeDay": 242,
     "timeWeek": 233,
     "timeMonth": 233,
     "timeYear": 233,
