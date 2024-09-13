@@ -4,19 +4,19 @@
     "url": "https://animehub.giize.com/",
     "icon": "https://icons.duckduckgo.com/ip3/animehub.giize.com.ico",
     "slug": "anihub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1174,
-    "timeDay": 2069,
-    "timeWeek": 1174,
-    "timeMonth": 1174,
-    "timeYear": 1174,
+    "status": "up",
+    "uptime": "81.90%",
+    "uptimeDay": "75.20%",
+    "uptimeWeek": "81.90%",
+    "uptimeMonth": "81.90%",
+    "uptimeYear": "81.90%",
+    "time": 1051,
+    "timeDay": 1566,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 357
     }
   },
   {
