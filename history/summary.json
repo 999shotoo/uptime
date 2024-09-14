@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/animehub.giize.com.ico",
     "slug": "anihub",
     "status": "up",
-    "uptime": "81.90%",
+    "uptime": "83.14%",
     "uptimeDay": "75.20%",
-    "uptimeWeek": "81.90%",
-    "uptimeMonth": "81.90%",
-    "uptimeYear": "81.90%",
-    "time": 1051,
-    "timeDay": 1566,
-    "timeWeek": 1051,
-    "timeMonth": 1051,
-    "timeYear": 1051,
+    "uptimeWeek": "83.14%",
+    "uptimeMonth": "83.14%",
+    "uptimeYear": "83.14%",
+    "time": 911,
+    "timeDay": 1562,
+    "timeWeek": 911,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2024-09-13": 357
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 242,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 250,
+    "timeDay": 286,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
