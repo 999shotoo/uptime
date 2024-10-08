@@ -22,7 +22,7 @@
     "url": "https://shotoo.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/shotoo.tech.ico",
     "slug": "shoto-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 268,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "Pixel CMS",
