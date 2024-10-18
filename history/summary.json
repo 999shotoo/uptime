@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 257,
-    "timeWeek": 237,
+    "timeDay": 220,
+    "timeWeek": 250,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 224,
-    "timeDay": 213,
-    "timeWeek": 202,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 225,
+    "timeDay": 256,
+    "timeWeek": 225,
+    "timeMonth": 230,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2024-10-08": 21
     }
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms.shotoo.tech.ico",
     "slug": "pixel-cms",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1673,
-    "timeDay": 1741,
-    "timeWeek": 1600,
-    "timeMonth": 1744,
+    "timeDay": 1651,
+    "timeWeek": 1544,
+    "timeMonth": 1734,
     "timeYear": 1673,
     "dailyMinutesDown": {
       "2024-09-16": 20
