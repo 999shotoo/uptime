@@ -42,7 +42,7 @@
     "url": "https://cms.shotoo.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/cms.shotoo.tech.ico",
     "slug": "pixel-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 1716,
     "timeYear": 1679,
     "dailyMinutesDown": {
+      "2024-10-20": 0,
       "2024-09-16": 20
     }
   }
