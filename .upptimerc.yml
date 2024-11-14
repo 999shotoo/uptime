@@ -9,6 +9,8 @@ sites:
     url: https://shotoo.tech/
   - name: Pixel CMS
     url: https://cms.shotoo.tech/
+  - name: Astro Portfolio
+    url: https://www.astro-dev.tech/onlyfans
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
