@@ -22,7 +22,7 @@
     "url": "https://shotoo.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/shotoo.tech.ico",
     "slug": "shoto-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 343,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2024-11-25": 0,
       "2024-10-30": 36,
       "2024-10-08": 21
     }
@@ -44,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms.shotoo.tech.ico",
     "slug": "pixel-cms",
     "status": "down",
-    "uptime": "48.40%",
+    "uptime": "48.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.40%",
+    "uptimeYear": "48.39%",
     "time": 1679,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1679,
     "dailyMinutesDown": {
-      "2024-11-25": 63,
+      "2024-11-25": 83,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
